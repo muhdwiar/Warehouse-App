@@ -2,13 +2,8 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/ellashella24/petshop">
-  </a>
-
   <h1 align="center">WAREHOUSE APP</h1>
-
 </div>
-<br />
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -23,7 +18,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Warehouse App merupakan aplikasi penyedia jasa penitipan barang. Semua barang bisa dititipkan lewat Warehouse App, dari yang paling kecil sampai yang paling besar. Layanan ini menjawab berbagai masalah yang terjadi dalam penyimpanan, seperti penitip ingin menyimpan barang UKM agar bisa diakses mudah dari tempat usaha. Dan orang yang mempunyai space lebih yang tidak terpakai juga dapat mendaftar menjadi mitra gudang Warehouse App agar tidak kosong dengan sia-sia.
+Warehouse App is an application for goods storage service providers. All items can be stored through the Warehouse Application, from the smallest to the largest. This service is a solution to problems that occur in dealing with shortages of storage space, such as entrepreneurs who want to store SME(Small and medium-sized enterprises) merchandise so that they can be easily accessed from their place of business. And people who have more unused land can also register to become a Warehouse App partner.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -53,7 +48,7 @@ Link Swagger : https://app.swaggerhub.com/apis-docs/muhdwiar/WarehouseCapstonePr
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Unit Test
-Hasil Coverage Dari Setiap Features :
+Coverage results from each use case layer:
 
 <img src="images/hasil tes capstone.PNG" alt="coverage-result">
 
