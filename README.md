@@ -56,7 +56,7 @@ Coverage results from each use case layer:
 
 <!-- CONTACT -->
 ## Collaborator
-* Dian Nurdiana
-* Muhamad Dwi Arifianto
+* Dian Nurdiana [Github](https://github.com/diannd) [LinkedIn](linkedin.com/in/dian-nurdiana-85589923b)
+* Muhamad Dwi Arifianto [Github](https://github.com/muhdwiar) [LinkedIn](https://www.linkedin.com/in/muhamad-dwi-arifianto-b76147238/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
