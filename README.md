@@ -23,27 +23,29 @@ Warehouse App is an application for goods storage service providers. All items c
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## High Level Architecture
-<img src="images/HLA.png" alt="hla" width="800" height="462" >
+<img src="images/HLA.png" width="600" height="341"  >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Entity Relationship Diagram
-<img src="images/ERD.jpg" alt="hla" width="800" height="462" >
+<img src="images/ERD.jpg" width="600" height="341" >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Swagger
+<img src="images/Swagger.PNG" width="600" height="341" >
+
 Link Swagger : https://app.swaggerhub.com/apis-docs/muhdwiar/WarehouseCapstoneProject/1.0.0#/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Tech Stack
-<img src="images/Tech Stack.PNG" alt="hla" width="800" height="462" >
+<img src="images/Tech Stack.PNG" width="600" height="341" >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Business Layer
-<img src="images/Business Layer.jpg" alt="hla" width="800" height="462" >
+<img src="images/Business Layer.jpg" width="600" height="341" >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
